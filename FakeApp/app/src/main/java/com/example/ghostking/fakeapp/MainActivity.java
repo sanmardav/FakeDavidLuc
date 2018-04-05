@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public void onViewClicked() {
 
         coinB.setImageResource(R.drawable.the_coin);
-        
+
 
 
 
